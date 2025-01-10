@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshmanda&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshmanda" /> </p>
 
-- 🌱 I’m currently learning **Java, C**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Python and Web Projects**
 
